@@ -1,0 +1,8 @@
+memory_game_client
+memory_game_client.controller
+memory_game_client.model
+memory_game_client.view
+memory_game_client.view.commands
+memory_game_client.view.jobs
+memory_game_client.view.logInRegistration
+memory_game_server

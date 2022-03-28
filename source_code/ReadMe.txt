@@ -1,0 +1,1 @@
+Potrebno je importati external_libs/mysql-connector-java-8.0.28.jar u dependencies kako bi se aplikacija mogla spojiti na MySQLserver prilikom logina/registracije

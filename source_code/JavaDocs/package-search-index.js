@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"memory_game_client"},{"l":"memory_game_client.controller"},{"l":"memory_game_client.model"},{"l":"memory_game_client.view"},{"l":"memory_game_client.view.commands"},{"l":"memory_game_client.view.jobs"},{"l":"memory_game_client.view.logInRegistration"},{"l":"memory_game_server"}]
